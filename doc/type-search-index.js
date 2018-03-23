@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"critters.dataclasses","l":"GridCoordinate"},{"p":"critters.dataclasses","l":"GridCoordinate.UICoordinates"},{"p":"critters.dataclasses","l":"GridCoordinate.UserCoordinates"}]
+typeSearchIndex = [{"p":"critters.dataclasses","l":"PowerUpCritter"}]
