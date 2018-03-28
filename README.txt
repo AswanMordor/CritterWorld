@@ -18,7 +18,7 @@ The world can always be redrawn and re-initialised with different bounds by used
 To exit the simulation, hit the X or EXIT button in bot windows' top right corners (for mac, may be a red dot)
 
 Future Functionality will include:
-	- Stats windows for the Critter population
+	- Stats windows for the Critter population DONE
 	- Individual stats for each Critter present in the world
 	- Dynamic resizing of the windows based on the bounds (up to a max. and min. limit) to preserve redability
 
