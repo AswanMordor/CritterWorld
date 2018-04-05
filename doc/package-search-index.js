@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"critters.dataclasses"}]
+packageSearchIndex = [{"l":"application"}]

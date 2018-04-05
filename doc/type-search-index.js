@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"critters.dataclasses","l":"PowerUpCritter"}]
+typeSearchIndex = [{"p":"application","l":"Main"},{"p":"application","l":"Main.populationText"}]
